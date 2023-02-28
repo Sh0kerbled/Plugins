@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EditorModeTest.cpp.obj": [
+			"EditorModeTest.init.gen.cpp.obj",
+			"EditorModeTestEditorMode.gen.cpp.obj",
+			"EditorModeTestInteractiveTool.gen.cpp.obj",
+			"EditorModeTestSimpleTool.gen.cpp.obj",
+			"EditorModeTestEditorMode.cpp.obj",
+			"EditorModeTestEditorModeCommands.cpp.obj",
+			"EditorModeTestEditorModeToolkit.cpp.obj",
+			"EditorModeTestModule.cpp.obj",
+			"EditorModeTestInteractiveTool.cpp.obj",
+			"EditorModeTestSimpleTool.cpp.obj"
+		]
+	}
+}
